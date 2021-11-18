@@ -1,4 +1,4 @@
-# ThatFruedDued's Blooket Utility
+# BlooketX
 
 ## What is this?
 
