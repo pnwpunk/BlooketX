@@ -16,13 +16,13 @@ One cheat / hack has been removed since it no longer works.
 
 ## Cheats
 
-- [AddTokens](##addTokens.js)
-- [Bypass Random Name](##bypassRandomName.js)
-- [Flood Game](##floodGames.js)
-- [Get All Blooks](##getAllBlooksInGame.js)
-- [Get Every Answer Correct](##getEveryAnswerCorrect.js)
-- [Spam Blook Boxes](##spamOpenBoxes.js)
-- [Sell All Duplicate Blooks](##sellDupeBlooks.js)
+- [AddTokens](## addTokens.js)
+- [Bypass Random Name](## bypassRandomName.js)
+- [Flood Game](## floodGames.js)
+- [Get All Blooks](## getAllBlooksInGame.js)
+- [Get Every Answer Correct](## getEveryAnswerCorrect.js)
+- [Spam Blook Boxes](## spamOpenBoxes.js)
+- [Sell All Duplicate Blooks](## sellDupeBlooks.js)
 
 ## Chrome Extension
 
