@@ -16,7 +16,7 @@ One cheat / hack has been removed since it no longer works.
 
 ## Cheats
 
-- [AddTokens](#addTokens.js)
+- [Add Tokens](#addTokens.js)
 - [Bypass Random Name](#bypassRandomName.js)
 - [Flood Game](#floodGames.js)
 - [Get All Blooks](#getAllBlooksInGame.js)
