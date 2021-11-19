@@ -25,7 +25,7 @@ One cheat / hack has been removed since it no longer works.
   - [Spam Blook Boxes](#spamOpenBoxes.js)
   - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
 - [Glixzzy Blooket Game Hacks](#glixzzy-game)
-  - [idk](#game-hack)
+  - [Blooket School Cheats](#game-hack)
 
 ## Chrome Extension
 
