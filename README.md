@@ -16,7 +16,7 @@ One cheat / hack has been removed since it no longer works.
 
 ## Cheats
 
-- [Glixzzy Blooket-Hacks]
+- Glixzzy Blooket-Hacks
   - [Add Tokens](#addTokens.js)
   - [Bypass Random Name](#bypassRandomName.js)
   - [Flood Game](#floodGames.js)
@@ -24,7 +24,7 @@ One cheat / hack has been removed since it no longer works.
   - [Get Every Answer Correct](#getEveryAnswerCorrect.js)
   - [Spam Blook Boxes](#spamOpenBoxes.js)
   - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
-- [Glixzzy Blooket-Game-Hacks]
+- Glixzzy Blooket-Game-Hacks
   - [idk](#game-hack)
 
 ## Chrome Extension
