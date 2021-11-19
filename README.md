@@ -64,4 +64,13 @@ Open console (ctrl + shift + j) and paste the following:
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-# More coming soon
+# ThatFruedDued's Blooket Utility (Bookmarklet)
+
+These Hacks / Cheats are taken from <https://github.com/ThatFruedDued/blooket-utility>.
+
+## How to use?
+
+Use this bookmarklet on the Blooket website: 
+```js
+fetch('https://thatfrueddued.github.io/blooket-utility/index.js').then(r=>r.text()).then(t=>(new Function(t))())
+```
