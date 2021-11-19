@@ -89,7 +89,7 @@ fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDu
 
 I know its another repository by glixzzy but it includes gamemode hacks.
 
-## How to use?
+## <a id="game-hack"></a>How to use?
 
 Open console (ctrl + shift = j) and paste the following:
 ```js
