@@ -6,7 +6,7 @@ This is a collection of different popular hacks and cheats for Blooket. None of 
 
 ## How to use?
 
-If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script.
+If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
 
 # Hacks / Cheats
