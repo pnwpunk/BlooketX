@@ -16,13 +16,13 @@ One cheat / hack has been removed since it no longer works.
 
 ## Cheats
 
-- [AddTokens](## addTokens.js)
-- [Bypass Random Name](## bypassRandomName.js)
-- [Flood Game](## floodGames.js)
-- [Get All Blooks](## getAllBlooksInGame.js)
-- [Get Every Answer Correct](## getEveryAnswerCorrect.js)
-- [Spam Blook Boxes](## spamOpenBoxes.js)
-- [Sell All Duplicate Blooks](## sellDupeBlooks.js)
+- [AddTokens](##addTokens.js)
+- [Bypass Random Name](##bypassRandomName.js)
+- [Flood Game](##floodGames.js)
+- [Get All Blooks](##getAllBlooksInGame.js)
+- [Get Every Answer Correct](##getEveryAnswerCorrect.js)
+- [Spam Blook Boxes](##spamOpenBoxes.js)
+- [Sell All Duplicate Blooks](##sellDupeBlooks.js)
 
 ## Chrome Extension
 
@@ -32,7 +32,7 @@ I'm currently working on an extension called "BlooketX" where you can run all th
 
 These Hacks / Cheats are taken from <https://github.com/glixzzy/blooket-hack/tree/main/global>.
 
-## addTokens.js
+## <a id="addTokens.js"></a> addTokens.js
 
 note: **This cheat also includes adding max xp for the day**
 
