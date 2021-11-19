@@ -9,7 +9,7 @@ This is a collection of different popular hacks and cheats for Blooket. None of 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
 
-# Glixzzy's Blooket Hacks (Console)
+# Glixzzy's blooket-hack (Console)
 
 These Hacks / Cheats are taken from <https://github.com/glixzzy/blooket-hack/tree/main/global>.
 
@@ -62,6 +62,16 @@ fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOp
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js").then((res) => res.text().then((t) => eval(t)))
+```
+# Glixzzy's blooket-game-hacks (Console)
+
+I know its another repository by glixzzy but it includes gamemode hacks.
+
+## How to use?
+
+Open console (ctrl + shift = j) and paste the following:
+```js
+fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
 # ThatFruedDued's Blooket Utility (Bookmarklet)
