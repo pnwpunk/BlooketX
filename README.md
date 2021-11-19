@@ -41,42 +41,42 @@ Open console (ctrl + shift + j) and paste the following:
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## bypassRandomName.js
+## <a id="bypassRandomName.js"></a>bypassRandomName.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## floodGames.js
+## <a id="floodGames.js"></a>floodGames.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGames.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## getAllBlooksInGame.js
+## <a id="getAllBlooksInGame.js"></a>getAllBlooksInGame.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## getEveryAnswerCorrect.js
+## <a id="getEveryAnswerCorrect.js"></a>getEveryAnswerCorrect.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getEveryAnswerCorrect.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## spamOpenBoxes.js
+## <a id="spamOpenBoxes.js"></a>spamOpenBoxes.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-## sellDupeBlooks.js
+## <a id="sellDupeBlooks.js"></a>sellDupeBlooks.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
