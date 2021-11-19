@@ -1,4 +1,5 @@
 ![New Project](https://user-images.githubusercontent.com/59119852/142629180-290ce6cc-7690-4534-ba04-216f49ca8273.png)
+btw I found the blooket font: Titan-One
 
 # BlooketX
 
