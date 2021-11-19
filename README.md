@@ -9,7 +9,7 @@ This is a collection of different popular hacks and cheats for Blooket. None of 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
 
-# Hacks / Cheats
+# Glixzzy's Blooket Hacks (Console)
 
 These Hacks / Cheats are taken from <https://github.com/glixzzy/blooket-hack/tree/main/global>.
 
