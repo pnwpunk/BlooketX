@@ -16,13 +16,16 @@ One cheat / hack has been removed since it no longer works.
 
 ## Cheats
 
-- [Add Tokens](#addTokens.js)
-- [Bypass Random Name](#bypassRandomName.js)
-- [Flood Game](#floodGames.js)
-- [Get All Blooks](#getAllBlooksInGame.js)
-- [Get Every Answer Correct](#getEveryAnswerCorrect.js)
-- [Spam Blook Boxes](#spamOpenBoxes.js)
-- [Sell All Duplicate Blooks](#sellDupeBlooks.js)
+- [Glixzzy Blooket-Hacks]
+  - [Add Tokens](#addTokens.js)
+  - [Bypass Random Name](#bypassRandomName.js)
+  - [Flood Game](#floodGames.js)
+  - [Get All Blooks](#getAllBlooksInGame.js)
+  - [Get Every Answer Correct](#getEveryAnswerCorrect.js)
+  - [Spam Blook Boxes](#spamOpenBoxes.js)
+  - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
+- [Glixzzy Blooket-Game-Hacks]
+  - [idk](#game-hack)
 
 ## Chrome Extension
 
@@ -82,7 +85,7 @@ Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js").then((res) => res.text().then((t) => eval(t)))
 ```
-# Glixzzy's blooket-game-hacks (Console)
+# <a id="game-hack"></a>Glixzzy's blooket-game-hacks (Console)
 
 I know its another repository by glixzzy but it includes gamemode hacks.
 
