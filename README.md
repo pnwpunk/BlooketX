@@ -12,6 +12,10 @@ This is a collection of different popular hacks and cheats for Blooket. None of 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
 
+# P1uffy's blooket hack extension
+
+I'm currently working on an extension called "BlooketX" where you can run all these cheats / hacks. Its not out at the moment but the moment I finish it I will release it on this repository.
+
 # Glixzzy's blooket-hack (Console)
 
 These Hacks / Cheats are taken from <https://github.com/glixzzy/blooket-hack/tree/main/global>.
