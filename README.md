@@ -30,7 +30,7 @@ I'm currently working on an extension called "BlooketX" where you can run all th
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
-These Hacks / Cheats are taken from <https://github.com/glixzzy/blooket-hack/tree/main/global>.
+These Hacks / Cheats are taken from <https://schoolcheats.net/blooket>. Feel free to explore that website for more.
 
 ## <a id="addTokens.js"></a>addTokens.js
 
