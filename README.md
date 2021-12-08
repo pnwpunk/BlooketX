@@ -12,7 +12,7 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## News
 
-Glixzzy Blooket Hacks no longer works since he has moved them to a different location. Because of this change I have put the new scripts of the cheats here. I have also removed flood games since it no longer works. I am aware that right now this repository is sorta empty. All it contains are hacks / cheats from Glixzzy. I promise you if someone releases a better and good cheat that actually works I will add it to this repository. 
+These hacks no longer work. I will get to updating them now.
 
 ## Cheats
 
