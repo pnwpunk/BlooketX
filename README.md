@@ -34,7 +34,7 @@ Taken from <https://github.com/mynameismax/blooket-extension>.
 4. Click 'Load Unpacked'
 5. Navigate to the extracted ZIP folder and select it
 
-![BlooketXSpacer](https://user-images.githubusercontent.com/59119852/145637261-ee52ec39-7a31-4e1f-9680-6a98ac9bfa9d.png)
+![BlooketXSpacer](https://user-images.githubusercontent.com/59119852/145637401-fed196d8-d2dd-49ca-85f6-573c7bcbe708.png)
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
