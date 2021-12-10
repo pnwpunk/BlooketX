@@ -42,42 +42,30 @@ These Hacks / Cheats are taken from <https://schoolcheats.net/blooket>. Feel fre
 
 note: **This cheat also includes adding max xp for the day**
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c)
-[addTokens.js]()
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[addTokens.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/addTokens.js)
 
 ## <a id="bypassRandomName.js"></a>bypassRandomName.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEJ5cGFzc1JhbmRvbU5hbWUuanM=')).then((res) => res.text().then((t) => eval(t)))
-```
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[bypassRandomName.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/bypassRandomName.js)
 
 ## <a id="getAllBlooksInGame.js"></a>getAllBlooksInGame.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEdldEFsbEJsb29rcy5qcw==')).then((res) => res.text().then((t) => eval(t)))
-```
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[getAllBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/getAllBlooks.js)
 
 ## <a id="getEveryAnswerCorrect.js"></a>getEveryAnswerCorrect.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEV2ZXJ5QW5zd2VyQ29ycmVjdC5qcw==')).then((res) => res.text().then((t) => eval(t)))
-```
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[getAllAnswers.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/getAllAnswers.js)
 
 ## <a id="spamOpenBoxes.js"></a>spamOpenBoxes.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbFNwYW1PcGVuQm94ZXMuanM=')).then((res) => res.text().then((t) => eval(t)))
-```
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[spamBoxes.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/spamBoxes.js)
 
 ## <a id="sellDupeBlooks.js"></a>sellDupeBlooks.js
 
-Open console (ctrl + shift + j) and paste the following:
-```js
-fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDY2OTM2L2dsb2JhbFNlbGxEdXBlQmxvb2tzLmpz')).then((res) => res.text().then((t) => eval(t)))
-```
-
-# More coming soon
+Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+[sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/sellDupeBlooks.js)
