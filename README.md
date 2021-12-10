@@ -34,6 +34,8 @@ Taken from <https://github.com/mynameismax/blooket-extension>.
 4. Click 'Load Unpacked'
 5. Navigate to the extracted ZIP folder and select it
 
+![BlooketXSpacer](https://user-images.githubusercontent.com/59119852/145637261-ee52ec39-7a31-4e1f-9680-6a98ac9bfa9d.png)
+
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
 These Hacks / Cheats are taken from <https://schoolcheats.net/blooket>. Feel free to explore that website for more.
