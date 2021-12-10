@@ -34,7 +34,9 @@ Taken from <https://github.com/mynameismax/blooket-extension>.
 4. Click 'Load Unpacked'
 5. Navigate to the extracted ZIP folder and select it
 
+<br>
 ![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
+<br>
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
@@ -71,3 +73,7 @@ Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the C
 
 Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/sellDupeBlooks.js)
+
+<br>
+![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
+<br>
