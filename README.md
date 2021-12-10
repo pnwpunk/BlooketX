@@ -44,32 +44,32 @@ These Hacks / Cheats are taken from <https://schoolcheats.net/blooket>. Feel fre
 
 note: **This cheat also includes adding max xp for the day**
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [addTokens.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/addTokens.js)
 
 ## <a id="bypassRandomName.js"></a>bypassRandomName.js
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [bypassRandomName.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/bypassRandomName.js)
 
 ## <a id="getAllBlooksInGame.js"></a>getAllBlooksInGame.js
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [getAllBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/getAllBlooks.js)
 
 ## <a id="getEveryAnswerCorrect.js"></a>getEveryAnswerCorrect.js
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [getAllAnswers.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/getAllAnswers.js)
 
 ## <a id="spamOpenBoxes.js"></a>spamOpenBoxes.js
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [spamBoxes.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/spamBoxes.js)
 
 ## <a id="sellDupeBlooks.js"></a>sellDupeBlooks.js
 
-Go to the link and copy everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
+Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/sellDupeBlooks.js)
 
 ![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
