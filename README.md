@@ -12,7 +12,7 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## News
 
-These hacks no longer work. I will get to updating them now.
+BlooketX is up and running once again! No new hacks / cheats sadly, but I fixed the existing ones. :)
 
 ## Cheats
 
