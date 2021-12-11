@@ -11,7 +11,7 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## <p align="center">News</p>
 
-<p align="center">BlooketX is up and running once again! No new hacks / cheats sadly, but I fixed the existing ones. :)</p>
+<p align="center">BlooketX is up and running once again better than ever! With better pictures to a better readme file, this repository couldn't be better.</p>
 
 ## <p align="center">Chrome Extension</p>
 
