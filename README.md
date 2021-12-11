@@ -7,7 +7,7 @@ btw I found the blooket font: Titan-One
 
 This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks.
 
-## How to use?
+## <p align="right">How to use?</p>
 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
@@ -35,8 +35,6 @@ Taken from <https://github.com/mynameismax/blooket-extension>.
 3. Go to chrome://extensions and enable developer mode if its not already on
 4. Click 'Load Unpacked'
 5. Navigate to the extracted ZIP folder and select it
-
-![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
@@ -73,6 +71,3 @@ Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to 
 
 Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/sellDupeBlooks.js)
-
-  </p>
-![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
