@@ -13,16 +13,6 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 <p align="center">BlooketX is up and running once again! No new hacks / cheats sadly, but I fixed the existing ones. :)</p>
 
-## <p align="center">Cheats</p>
-
-- [Glixzzy Blooket Hacks](#glixzzy-hack)
-  - [Add Tokens](#addTokens.js)
-  - [Bypass Random Name](#bypassRandomName.js)
-  - [Get All Blooks](#getAllBlooksInGame.js)
-  - [Get Every Answer Correct](#getEveryAnswerCorrect.js)
-  - [Spam Blook Boxes](#spamOpenBoxes.js)
-  - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
-
 ## <p align="center">Chrome Extension</p>
 
 <p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2. </p>
