@@ -3,7 +3,7 @@ btw I found the blooket font: Titan-One
 
 <p align="center">
 
-## What is this?
+## <p align="center">What is this?</p>
 
 This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks.
 
@@ -12,11 +12,11 @@ This is a collection of different popular hacks and cheats for Blooket. None of 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
 
-## News
+## <p align="center">News</p>
 
 BlooketX is up and running once again! No new hacks / cheats sadly, but I fixed the existing ones. :)
 
-## Cheats
+## <p align="center">Cheats</p>
 
 - [Glixzzy Blooket Hacks](#glixzzy-hack)
   - [Add Tokens](#addTokens.js)
@@ -26,7 +26,7 @@ BlooketX is up and running once again! No new hacks / cheats sadly, but I fixed 
   - [Spam Blook Boxes](#spamOpenBoxes.js)
   - [Sell All Duplicate Blooks](#sellDupeBlooks.js)
 
-## Chrome Extension
+## <p align="center">Chrome Extension</p>
 
 Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2. 
 Taken from <https://github.com/mynameismax/blooket-extension>.
