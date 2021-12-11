@@ -1,7 +1,7 @@
 ![BlooketXTransparent](https://user-images.githubusercontent.com/59119852/145660957-afcf8dba-e876-4b39-9a78-ac2c617b5f3b.png)
 btw I found the blooket font: Titan-One
 
-<p align="center">text</p>
+<p align="center">
 
 ## What is this?
 
@@ -74,4 +74,5 @@ Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to 
 Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste the what you copied eariler.<br>
 [sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/sellDupeBlooks.js)
 
+  </p>
 ![Spacer](https://user-images.githubusercontent.com/59119852/145637549-7a181be2-a58c-4e56-a241-e2d5bb761bf5.png)
