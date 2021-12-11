@@ -1,5 +1,4 @@
 ![BlooketXTransparent](https://user-images.githubusercontent.com/59119852/145660957-afcf8dba-e876-4b39-9a78-ac2c617b5f3b.png)
-btw I found the blooket font: Titan-One
 
 <p align="center">
 
