@@ -16,7 +16,7 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 ## <p align="center">Chrome Extension</p>
 
 <p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2.</p>
-Follow directions from his repository. https://github.com/mynameismax/blooket-extension.
+<p align="center">Follow directions from his repository. https://github.com/mynameismax/blooket-extension.</p>
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
