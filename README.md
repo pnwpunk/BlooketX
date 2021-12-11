@@ -7,7 +7,7 @@ btw I found the blooket font: Titan-One
 
 This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks.
 
-## <p align="right">How to use?</p>
+## <p align="center">How to use?</p>
 
 If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
 If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.
