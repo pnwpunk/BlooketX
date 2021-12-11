@@ -27,13 +27,13 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## <p align="center">Chrome Extension</p>
 
-<p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2. 
+<p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2. </p>
 Taken from <https://github.com/mynameismax/blooket-extension>.
 1. Download repo as ZIP
 2. Unzip ZIP file
 3. Go to chrome://extensions and enable developer mode if its not already on
 4. Click 'Load Unpacked'
-5. Navigate to the extracted ZIP folder and select it</p>
+5. Navigate to the extracted ZIP folder and select it
 
 # <a id="glixzzy-hack"></a>Glixzzy's blooket-hack (Console)
 
