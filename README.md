@@ -1,6 +1,8 @@
 ![BlooketXTransparent](https://user-images.githubusercontent.com/59119852/145660957-afcf8dba-e876-4b39-9a78-ac2c617b5f3b.png)
 btw I found the blooket font: Titan-One
 
+<p align="center">text</p>
+
 ## What is this?
 
 This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks.
