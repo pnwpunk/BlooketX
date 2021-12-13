@@ -1,6 +1,4 @@
 ![BlooketXTransparent](https://user-images.githubusercontent.com/59119852/145660957-afcf8dba-e876-4b39-9a78-ac2c617b5f3b.png)
-![BlooketXSocialThumbnail](https://user-images.githubusercontent.com/59119852/145880050-ef0d9bba-17d4-464a-a3e5-6ba617901a11.png)
-
 
 ## <p align="center">🛈 What is this?</p>
 
