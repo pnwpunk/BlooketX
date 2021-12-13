@@ -6,8 +6,8 @@
 
 ## <p align="center">How to use?</p>
 
-<p align="center">* If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
-* If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.</p>
+<p align="center">If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
+If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.</p>
 
 ## <p align="center">News</p>
 
@@ -16,7 +16,7 @@
 ## <p align="center">Chrome Extension</p>
 
 <p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2.</p>
-<p align="center">Follow directions from his repository. https://github.com/mynameismax/blooket-extension.</p>
+<p align="center">Follow directions from his repository. https://github.com/mynameismax/blooket-extension.</p> <br>
 
 # schoolcheats.net (Console)
 
