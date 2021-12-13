@@ -6,8 +6,8 @@
 
 ## <p align="center">How to use?</p>
 
-<p align="center">If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
-If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.</p>
+<p align="center">* If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
+* If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.</p>
 
 ## <p align="center">News</p>
 
