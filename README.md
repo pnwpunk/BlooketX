@@ -2,7 +2,7 @@
 
 ## <p align="center">🛈 What is this?</p>
 
-<p align="center">This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks.</p>
+<p align="center">This is a collection of different popular hacks and cheats for Blooket. None of them were made by me at the moment. Scroll down to the bottom of the page for credits and more details. I have only chosen hacks that can be run on a chromebook since most people play blooket at school on their chromebooks. I also have a github page hosted. Check it out: https://p1uffy.github.io/BlooketX/</p>
 
 ## <p align="center">How to use?</p>
 
