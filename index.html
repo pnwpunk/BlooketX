@@ -169,43 +169,12 @@
 						<br>
 					</div>
 				</div>
-				<div class="menuholder">
-					<div class="lowerbackground"></div>
-					<div class="menutext">Links</div>
-					<div class="buttoncontainer">
-						<a target="_blank" class="linkbutton" href="https://www.blooket.com" style="background-color:#ffa31e;">
-							<i class="fas fa-home"></i>
-							<div class="buttontext">Blooket Website</div>
-						</a>	
-						<a class="linkbutton" href="https://github.com/P1uffy/BlooketX" style="background-color:#096dbd;">
-							<i class="fab fa-github"></i>
-							<div class="buttontext">BlooketX Github Page</div>
-						</a>
-						<br>
-					</div>
-					<div class="buttoncontainer">
-						<a class="linkbutton" href="hacks/getAllBlooksInGame.html" style="background-color:#9a49aa;">
-							<i class="fas fa-list"></i>
-							<div class="buttontext">Blooket Hacks</div>
-						</a>
-						<br>
-					</div>
-				</div>
 			</div>
 		</div>
 		<script>
 			window.addEventListener('contextmenu',
 			function (e) {e.preventDefault();
 			}, false);
-			var audio = new Audio();
-			function pronunciation() {
-				audio = new Audio('pronunciation.mp3')
-				audio.play()
-				document.getElementById('pronunciationbutton').onclick = 0;
-				setTimeout(function e() {
-					var e = document.getElementById('pronunciationbutton').onclick = function(){pronunciation()};
-				}, 500)
-			};
 			window.onload = function() {
 				console.log('window loaded');
 			};
