@@ -14,45 +14,9 @@ If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` 
 
 ## <p align="center">News</p>
 
-<p align="center">BlooketX is up and running once again better than ever! With better pictures to a better readme file, this repository couldn't be better.</p>
+<p align="center">I have removed all the hacks from the github readme file and moved them to my github page. Either manually find the hacks in the repository, or go to the website.</p>
 
 ## <p align="center">Chrome Extension</p>
 
 <p align="center">Instead of making one which I tried, I found one which is just amazing and works so good. It is made by @OneMinesraft2. Check out his profile he deserves the credit. It uses hacks and cheats from @Glixzzy and @OneMinesraft2.</p>
 <p align="center">Follow directions from his repository. https://github.com/mynameismax/blooket-extension.</p> <br>
-
-# schoolcheats.net (Console)
-
-These Hacks / Cheats are taken from <https://schoolcheats.net/blooket>. Feel free to explore that website for more.
-
-## addTokens.js
-
-note: **This cheat also includes adding max xp for the day**
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[addTokens.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/addTokens.js)
-
-## bypassRandomName.js
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[bypassRandomName.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/bypassRandomName.js)
-
-## getAllBlooksInGame.js
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[getAllBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/getAllBlooks.js)
-
-## getEveryAnswerCorrect.js
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[getAllAnswers.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/getAllAnswers.js)
-
-## spamOpenBoxes.js
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[spamBoxes.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/spamBoxes.js)
-
-## sellDupeBlooks.js
-
-Go to the link and highlight everything. (ctrl + a) Then copy. (ctrl + c) Go to the Console (ctrl + shift + j) and then paste what you copied eariler.<br>
-[sellDupeBlooks.js](https://raw.githubusercontent.com/P1uffy/BlooketX/main/Glixzzy/sellDupeBlooks.js)
