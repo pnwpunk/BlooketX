@@ -6,11 +6,11 @@
 
 ## <p align="center">How to use?</p>
 
-<p align="center">If the Hack / Cheat is labeled with "Console" then simply do Ctrl+Shift+j to open the console and paste the script. <br>
-If the Hack / Cheat is labeled with "Bookmarklet" then simply put `javascript:` in the search bar before the script.</p>
+<p align="center">Head to the github page and scroll down. Click the "Blooket Hacks" button and find your hack. Further instructions found there.</p>
 
 ## <p align="center">Website!</p>
-<p align="center">There is now a Github Page hosted for BlooketX. It makes it easier to use and navigate. Come check it out! https://p1uffy.github.io/BlooketX/</p>
+<p align="center">There is now a Github Page hosted for BlooketX. It makes it easier to use and navigate. Come check it out! <br>
+https://p1uffy.github.io/BlooketX/</p>
 
 ## <p align="center">News</p>
 
