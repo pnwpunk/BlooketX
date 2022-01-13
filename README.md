@@ -8,6 +8,10 @@
 
 <p align="center">Head to the github page and scroll down. Click the "Blooket Hacks" button and find your hack. Further instructions found there.</p>
 
+## <p align="center">DISCLAIMER!</p>
+
+<p align="center">Blooket is now banning people who are using hacks. If you decide to use this resource, I am not responsible for any account damage. Please read the Blooket TOS for further information. https://www.blooket.com/terms</p>
+
 ## <p align="center">Website!</p>
 <p align="center">There is now a Github Page hosted for BlooketX. It makes it easier to use and navigate. Come check it out! <br>
 https://p1uffy.github.io/BlooketX/</p>
